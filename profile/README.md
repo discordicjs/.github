@@ -2,7 +2,7 @@
 
 ## Dreamcord Labs
 
-We develop [Dreamcord], a powerful JavaScript/TypeScript library that allows one to interact with the [Discord API]. Discordic is also maintained by developers like you—feel free to contribute! 
+We develop [Dreamcord], a powerful JavaScript/TypeScript library that allows one to interact with the [Discord API]. Dreamcord is also maintained by developers like you—feel free to contribute! 
 
 - [Discord Server]
 - [Related Libraries]
