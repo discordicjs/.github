@@ -1,6 +1,6 @@
 [<img align="right" src="https://i.ibb.co/ZL9PD25/discordic.png" width="150">][Website]
 
-## Who We Are
+## Discordic Labs
 
 We develop [Discordic], a powerful JavaScript/TypeScript library that allows one to interact with the [Discord API]. Discordic is also maintained by developers like you—feel free to contribute! 
 
