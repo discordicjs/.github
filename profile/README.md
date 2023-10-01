@@ -12,4 +12,4 @@ We develop [Dreamcord], a powerful JavaScript/TypeScript library that allows one
 [Discord API]: https://discord.com/developers/intro
 [Discord server]: https://discord.gg/esbvN54JmW
 [Related Libraries]: https://discord.com/developers/docs/topics/community-resources#libraries
-[Website]: https://dreamcordjs.github.io/dreamcord
+[Website]: https://dreamcord.js.org
